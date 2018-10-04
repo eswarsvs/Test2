@@ -1,0 +1,146 @@
+[
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538683399357,
+            "changeTime": 1538683399357,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538683399358,
+            "changeTime": 1538683399358,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538683811476,
+            "changeTime": 1538683811476,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538683399358,
+            "changeTime": 1538683399358,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538684042762,
+            "changeTime": 1538684042762,
+            "contentHash": "377295e6af8bf073a206b6ec47f4fa95630e1500"
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController3.cls",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController3.cls",
+            "isDirectory": false,
+            "size": 90,
+            "modifiedTime": 1538683811512,
+            "changeTime": 1538683811512,
+            "contentHash": "557a69048375a5b69553ad23bd4fa5440763d661",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController3.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController3.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1538683811517,
+            "changeTime": 1538683811517,
+            "contentHash": "770530d60b56977440c6d4176f7213d8bcd5a421",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2",
+        {
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538683480199,
+            "changeTime": 1538683480199,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController4.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController4.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538684042756,
+            "changeTime": 1538684042756,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController4.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\Test2\\force-app\\main\\default\\classes\\AccountController4.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 73,
+            "modifiedTime": 1538684042763,
+            "changeTime": 1538684042763,
+            "contentHash": "258b5fc6e8662adef59c7f46e583aa86ce78cc0c"
+        }
+    ]
+]
